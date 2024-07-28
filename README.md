@@ -2,7 +2,9 @@
 
 ## Overview
 
-Notes Hub is a simple note-taking application built with React and Tailwind CSS, using Vite as the build tool. The app allows users to create, read, update, and delete notes. It also supports searching through notes, pagination for managing large numbers of notes, and local storage for data persistence.
+Notes Hub is a simple note-taking application built with React and Tailwind CSS, using Vite as the build tool. The app allows users to create, read, update, and delete notes. It also supports searching through notes, pagination for managing large numbers of notes, and local storage for data persistence.   
+
+**App Deployed at**: [NotesHub](https://noteshub-one.vercel.app)
 
 ## Features
 
